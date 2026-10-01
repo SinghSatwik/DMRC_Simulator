@@ -1,8 +1,8 @@
-#Delhi Metro Route Planner
+# Delhi Metro Route Planner
 
 This project is a Python-based Delhi Metro Route Planner.
 
-##Features
+## Features
 -Check the next available metro at a station.
 -Plan a journey between two stations.
 -Supports Blue, Red, Magenta, and Orange lines.
@@ -12,15 +12,13 @@ This project is a Python-based Delhi Metro Route Planner.
 -Calculates the fare based on travel time.
 -Accepts station-name shortcuts such as NEC, BG, and Noida E City.
 
-##Data
+## Data
 
 The program reads metro station and travel-time information from: metro_data.txt
 
-##How to Run
+## How to Run
 
-Run the Python file using:
-
-python metro_simulator.py
+Run the Python file using: python metro_simulator.py
 
 The program will display a menu with options to:
 
